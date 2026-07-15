@@ -1489,6 +1489,48 @@
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/xaero/minimap/server_profiles/default.cfg",
                         "path": "config/xaero/minimap/server_profiles/default.cfg"
                     }
+                },
+                {
+                    "id": "novaworld:appleskin-forge-mc1.20.1-2.5.1",
+                    "name": "appleskin-forge-mc1.20.1-2.5.1",
+                    "type": "ForgeMod",
+                    "resuired": {
+                        "value": false
+                        "deault": false
+                    }
+                    "artifact": {
+                        "size": 47428,
+                        "MD5": "dae63cea9c951dda542a4005ceef3953",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/appleskin-forge-mc1.20.1-2.5.1.jar"
+                    }
+                },
+                {
+                    "id": "novaworld:Forgematica-0.1.13-mc1.20.1",
+                    "name": "Forgematica-0.1.13-mc1.20.1",
+                    "type": "ForgeMod",
+                    "resuired": {
+                        "value": false
+                        "deault": false
+                    }
+                    "artifact": {
+                        "size": 997501,
+                        "MD5": "8def10203e22c87e5820ecf2efd14184",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/Forgematica-0.1.13-mc1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "novaworld:oculus-mc1.20.1-1.8.0",
+                    "name": "oculus-mc1.20.1-1.8.0",
+                    "type": "ForgeMod",
+                    "resuired": {
+                        "value": false
+                        "deault": false
+                    },
+                    "artifact": {
+                        "size": 2851119,
+                        "MD5": "1dd891634ac21591b5a692471f112572",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/oculus-mc1.20.1-1.8.0.jar"
+                    }
                 }
             ]
         }
