@@ -1495,9 +1495,9 @@
                     "name": "appleskin-forge-mc1.20.1-2.5.1",
                     "type": "ForgeMod",
                     "required": {
-                        "value": false
-                        "deault": false
-                    }
+                        "value": false,
+                        "default": false
+                    },
                     "artifact": {
                         "size": 47428,
                         "MD5": "dae63cea9c951dda542a4005ceef3953",
@@ -1509,9 +1509,9 @@
                     "name": "Forgematica-0.1.13-mc1.20.1",
                     "type": "ForgeMod",
                     "required": {
-                        "value": false
-                        "deault": false
-                    }
+                        "value": false,
+                        "default": false
+                    },
                     "artifact": {
                         "size": 997501,
                         "MD5": "8def10203e22c87e5820ecf2efd14184",
@@ -1523,8 +1523,8 @@
                     "name": "oculus-mc1.20.1-1.8.0",
                     "type": "ForgeMod",
                     "required": {
-                        "value": false
-                        "deault": false
+                        "value": false,
+                        "default": false
                     },
                     "artifact": {
                         "size": 2851119,
