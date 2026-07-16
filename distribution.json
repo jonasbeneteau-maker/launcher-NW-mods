@@ -5,6 +5,7 @@
             "id": "NovaWorld",
             "name": "NovaWorld",
             "description": "Serveur moddé NovaWorld",
+            "icon": null,
             "version": "1.0.0",
             "address": "83.143.117.57:20638",
             "minecraftVersion": "1.20.1",
