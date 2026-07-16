@@ -1525,7 +1525,7 @@
                     "type": "ForgeMod",
                     "required": {
                         "value": false,
-                        "default": false
+                        "default": true
                     },
                     "artifact": {
                         "size": 2851119,
