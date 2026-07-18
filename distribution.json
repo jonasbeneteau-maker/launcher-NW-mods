@@ -1520,27 +1520,23 @@
                     }
                 },
                 {
-                    "id": "novaworld:oculus-mc1.20.1-1.8.0",
-                    "name": "oculus-mc1.20.1-1.8.0",
+                    "id": "novaworld:oculus-mc1.20.1-1.6.9",
+                    "name": "oculus-mc1.20.1-1.6.9",
                     "type": "ForgeMod",
                     "required": {
                         "value": false,
                         "default": true
                     },
                     "artifact": {
-                        "size": 2851119,
-                        "MD5": "1dd891634ac21591b5a692471f112572",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/oculus-mc1.20.1-1.8.0.jar"
+                        "size": 2814481,
+                        "MD5": "dd3596e374db3975a2f83594da6a3e2b",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/oculus-mc1.20.1-1.6.9.jar"
                     }
                 },
                 {
                     "id": "novaworld:MaFgLib-0.1.14-mc1.20.1",
                     "name": "MaFgLib-0.1.14-mc1.20.1",
                     "type": "ForgeMod",
-                    "required": {
-                        "value": false,
-                        "default": true
-                    },
                     "artifact": {
                         "size": 521709,
                         "MD5": "739a08ec65e3c5cdd5bfc64adc90947d",
