@@ -1537,6 +1537,10 @@
                     "id": "novaworld:MaFgLib-0.1.14-mc1.20.1",
                     "name": "MaFgLib-0.1.14-mc1.20.1",
                     "type": "ForgeMod",
+                    "required": {
+                        "value": false,
+                        "default": true
+                    },
                     "artifact": {
                         "size": 521709,
                         "MD5": "739a08ec65e3c5cdd5bfc64adc90947d",
