@@ -462,13 +462,13 @@
                     }
                 },
                 {
-                    "id": "novaworld:IAV-1.1.11-1.20.1",
-                    "name": "IAV-1.1.11-1.20.1",
+                    "id": "novaworld:IAV-1.1.1-1.20.1",
+                    "name": "IAV-1.1.1-1.20.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 49393551,
-                        "MD5": "4720d478a3c23d69341e3dbb3bd03a3d",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/IAV-1.1.11-1.20.1.jar"
+                        "size": 49139992,
+                        "MD5": "73f5c633aed5c77d9c5889a1cc30be7e",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/IAV-1.1.1-1.20.1.jar"
                     }
                 },
                 {
@@ -782,6 +782,16 @@
                     }
                 },
                 {
+                    "id": "novaworld:supermartijn642configlib-1.1.8-forge-mc1.20",
+                    "name": "supermartijn642configlib-1.1.8-forge-mc1.20",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 206584,
+                        "MD5": "cbece61946d4e059e90806c19dd66082",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+                    }
+                },
+                {
                     "id": "novaworld:supermartijn642corelib-1.1.21-forge-mc1.20.1",
                     "name": "supermartijn642corelib-1.1.21-forge-mc1.20.1",
                     "type": "ForgeMod",
@@ -1037,28 +1047,6 @@
                         "MD5": "26220096d2e80c63fd098c6b269ce5f9",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/storagedrawers-common.v2.toml",
                         "path": "config/storagedrawers-common.v2.toml"
-                    }
-                },
-                {
-                    "id": "novaworld:config_superbwarfare-client_toml",
-                    "name": "superbwarfare-client.toml",
-                    "type": "File",
-                    "artifact": {
-                        "size": 3774,
-                        "MD5": "ad02fa10e821cda990aa675ed3913f94",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/superbwarfare-client.toml",
-                        "path": "config/superbwarfare-client.toml"
-                    }
-                },
-                {
-                    "id": "novaworld:config_superbwarfare-common_toml",
-                    "name": "superbwarfare-common.toml",
-                    "type": "File",
-                    "artifact": {
-                        "size": 468,
-                        "MD5": "32263289bead64b8b37593f391d99984",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/superbwarfare-common.toml",
-                        "path": "config/superbwarfare-common.toml"
                     }
                 },
                 {
