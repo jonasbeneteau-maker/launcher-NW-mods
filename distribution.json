@@ -1554,6 +1554,106 @@
                     }
                 },
                 {
+                    "id": "novaworld:architectury-9.2.14-forge",
+                    "name": "architectury-9.2.14-forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 580602,
+                        "MD5": "76b40d407b6bf0257dd1dab6d3d395d5",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/architectury-9.2.14-forge.jar"
+                    }
+                },
+                {
+                    "id": "novaworld:IAV-1.1.11-1.20.1",
+                    "name": "IAV-1.1.11-1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 49393551,
+                        "MD5": "4720d478a3c23d69341e3dbb3bd03a3d",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/IAV-1.1.11-1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "novaworld:gundb-2.1.0-all",
+                    "name": "gundb-2.1.0-all",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 243825,
+                        "MD5": "5539e28598da28b113324996793bdd27",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/gundb-2.1.0-all.jar"
+                    }
+                },
+                {
+                    "id": "novaworld:Immersive_Vehicles-1.20.1-24.0.0",
+                    "name": "Immersive_Vehicles-1.20.1-24.0.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 6254897,
+                        "MD5": "96fd07315c988dff6e5dff255ec4ba79",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/Immersive Vehicles-1.20.1-24.0.0.jar"
+                    }
+                },
+                {
+                    "id": "novaworld:ImmersiveEngineering-1.20.1-10.2.0-183",
+                    "name": "ImmersiveEngineering-1.20.1-10.2.0-183",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 12129396,
+                        "MD5": "258b3e4b57b464d686d464da3481bc33",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar"
+                    }
+                },
+                {
+                    "id": "novaworld:lrtactical-1.20.1-0.3.0",
+                    "name": "lrtactical-1.20.1-0.3.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 5193935,
+                        "MD5": "73f94347bbc9050c0a28cb9aff3c3d26",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/lrtactical-1.20.1-0.3.0.jar"
+                    }
+                },
+                {
+                    "id": "novaworld:lrarmor-1.20.1-0.1.4.4",
+                    "name": "lrarmor-1.20.1-0.1.4.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 887220,
+                        "MD5": "98f60ace7ad33f65522270fffe87b0bb",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/lrarmor-1.20.1-0.1.4.4.jar"
+                    }
+                },
+                {
+                    "id": "novaworld:player_health-1.0.8-forge-1.20.1",
+                    "name": "player_health-1.0.8-forge-1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 451389,
+                        "MD5": "29baa3a08e51b240058d995ec3b8dc73",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/player_health-1.0.8-forge-1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "novaworld:tacz-1.20.1-1.1.8-hotfix",
+                    "name": "tacz-1.20.1-1.1.8-hotfix",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 57465167,
+                        "MD5": "65e19238d5669d1a74305ba7e49408f7",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/tacz-1.20.1-1.1.8-hotfix.jar"
+                    }
+                },
+                {
+                    "id": "novaworld:VEB-1.1.11-1.20.1",
+                    "name": "VEB-1.1.11-1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 66073559,
+                        "MD5": "d3bbbaaf616289f14d5ae0277859da0d",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/VEB-1.1.11-1.20.1.jar"
+                    }
+                },
+                {
                     "id": "novaworld:rubidium-mc1.20.1-0.7.1",
                     "name": "rubidium-mc1.20.1-0.7.1",
                     "type": "ForgeMod",
