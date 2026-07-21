@@ -462,13 +462,13 @@
                     }
                 },
                 {
-                    "id": "novaworld:IAV-1.1.1-1.20.1",
-                    "name": "IAV-1.1.1-1.20.1",
+                    "id": "novaworld:IAV-1.1.11-1.20.1",
+                    "name": "IAV-1.1.11-1.20.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 49139992,
-                        "MD5": "73f5c633aed5c77d9c5889a1cc30be7e",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/IAV-1.1.1-1.20.1.jar"
+                        "size": 49393551,
+                        "MD5": "4720d478a3c23d69341e3dbb3bd03a3d",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/IAV-1.1.11-1.20.1.jar"
                     }
                 },
                 {
@@ -632,13 +632,13 @@
                     }
                 },
                 {
-                    "id": "novaworld:fusion-1.3.5-forge-mc1.20.1",
-                    "name": "fusion-1.3.5-forge-mc1.20.1",
+                    "id": "novaworld:fusion-1.3.9-forge-mc1.20.1",
+                    "name": "fusion-1.3.9-forge-mc1.20.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 916275,
-                        "MD5": "4940016ac90b005ca676aefd9c0c2040",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/fusion-1.3.5-forge-mc1.20.1.jar"
+                        "size": 945144,
+                        "MD5": "5f46dc586111cff6fc009c208b452aac",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/fusion-1.3.9-forge-mc1.20.1.jar"
                     }
                 },
                 {
@@ -732,13 +732,13 @@
                     }
                 },
                 {
-                    "id": "novaworld:oculus-mc1.20.1-1.6.9",
-                    "name": "oculus-mc1.20.1-1.6.9",
+                    "id": "novaworld:oculus-mc1.20.1-1.8.0",
+                    "name": "oculus-mc1.20.1-1.8.0",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 2814481,
-                        "MD5": "dd3596e374db3975a2f83594da6a3e2b",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/oculus-mc1.20.1-1.6.9.jar"
+                        "size": 2851119,
+                        "MD5": "1dd891634ac21591b5a692471f112572",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/oculus-mc1.20.1-1.8.0.jar"
                     }
                 },
                 {
@@ -782,13 +782,13 @@
                     }
                 },
                 {
-                    "id": "novaworld:rubidium-mc1.20.1-0.7.1",
-                    "name": "rubidium-mc1.20.1-0.7.1",
+                    "id": "novaworld:rubidium-mc1.20.1-0.7.1a",
+                    "name": "rubidium-mc1.20.1-0.7.1a",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 704856,
-                        "MD5": "5a6a9dbad21f4d67f967c6ce369ecb0e",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/rubidium-mc1.20.1-0.7.1.jar"
+                        "size": 715190,
+                        "MD5": "234d6ddfff9313fb943abf4d038fe5f4",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/rubidium-mc1.20.1-0.7.1a.jar"
                     }
                 },
                 {
@@ -842,23 +842,23 @@
                     }
                 },
                 {
-                    "id": "novaworld:voicechat-forge-1.20.1-2.6.20",
-                    "name": "voicechat-forge-1.20.1-2.6.20",
+                    "id": "novaworld:voicechat-forge-1.20.1-2.6.21",
+                    "name": "voicechat-forge-1.20.1-2.6.21",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 4911858,
-                        "MD5": "2d12e71b04e00935822743dedaf2e5d4",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/voicechat-forge-1.20.1-2.6.20.jar"
+                        "size": 4918879,
+                        "MD5": "7768581f20ec5d0051a7faef47ab898c",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/voicechat-forge-1.20.1-2.6.21.jar"
                     }
                 },
                 {
-                    "id": "novaworld:xaerominimap-forge-1.20.1-26.2.0",
-                    "name": "xaerominimap-forge-1.20.1-26.2.0",
+                    "id": "novaworld:xaerominimap-forge-1.20.1-26.4.2",
+                    "name": "xaerominimap-forge-1.20.1-26.4.2",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 2182785,
-                        "MD5": "c30fa330f7be70f70f2b58cb0be89e78",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/xaerominimap-forge-1.20.1-26.2.0.jar"
+                        "size": 2195245,
+                        "MD5": "f6019f3ba0925782cc3cd8405cc80259",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/xaerominimap-forge-1.20.1-26.4.2.jar"
                     }
                 },
                 {
