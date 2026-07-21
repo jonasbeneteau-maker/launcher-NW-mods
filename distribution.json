@@ -1720,6 +1720,16 @@
                     }
                 },
                 {
+                    "id": "novaworld:rubidium-mc1.20.1-0.7.1",
+                    "name": "rubidium-mc1.20.1-0.7.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 704856,
+                        "MD5": "5a6a9dbad21f4d67f967c6ce369ecb0e",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/rubidium-mc1.20.1-0.7.1.jar"
+                    }
+                },
+                {
                     "id": "novaworld:config_xaero_minimap_server_profiles_default_cfg",
                     "name": "default.cfg",
                     "type": "File",
