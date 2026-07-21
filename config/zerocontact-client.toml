@@ -1,0 +1,5 @@
+
+[client]
+	#Bullet suppression
+	bulletSuppression = true
+
