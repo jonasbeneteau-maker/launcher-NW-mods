@@ -498,7 +498,7 @@
                     "artifact": {
                         "size": 70997298,
                         "MD5": "f21a397cce53a4ef26c09c1c65a6a3d7",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/MTS_Official Pack-1.20.1-V29.jar"
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/MTS_Official_Pack-1.20.1-V29.jar"
                     }
                 },
                 {
@@ -779,16 +779,6 @@
                         "size": 432753,
                         "MD5": "a040c6cc86f653fddf280ff3af9068f0",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/resourcefullib-forge-1.20.1-2.1.29.jar"
-                    }
-                },
-                {
-                    "id": "novaworld:rubidium-mc1.20.1-0.7.1a",
-                    "name": "rubidium-mc1.20.1-0.7.1a",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 715190,
-                        "MD5": "234d6ddfff9313fb943abf4d038fe5f4",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/rubidium-mc1.20.1-0.7.1a.jar"
                     }
                 },
                 {
