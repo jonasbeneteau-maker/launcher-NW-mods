@@ -732,16 +732,6 @@
                     }
                 },
                 {
-                    "id": "novaworld:oculus-mc1.20.1-1.6.9",
-                    "name": "oculus-mc1.20.1-1.6.9",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 2814481,
-                        "MD5": "dd3596e374db3975a2f83594da6a3e2b",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/oculus-mc1.20.1-1.6.9.jar"
-                    }
-                },
-                {
                     "id": "novaworld:player_health-1.0.8-forge-1.20.1",
                     "name": "player_health-1.0.8-forge-1.20.1",
                     "type": "ForgeMod",
@@ -1707,16 +1697,6 @@
                         "MD5": "64d98932063f0be723920fbdb1de1268",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
                         "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-                    }
-                },
-                {
-                    "id": "novaworld:rubidium-mc1.20.1-0.7.1a",
-                    "name": "rubidium-mc1.20.1-0.7.1a",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 715190,
-                        "MD5": "234d6ddfff9313fb943abf4d038fe5f4",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/mods/rubidium-mc1.20.1-0.7.1a.jar"
                     }
                 },
                 {
