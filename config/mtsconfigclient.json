@@ -61,7 +61,7 @@
       "comment": "If true, player hands will be modified when holding guns, and hands and legs will be modified when riding in vehicles.  Set this to false (and restart the game) if mods cause issues, like two-hand rendering or player model issues.  Automatically set to false if some mods are detected."
     },
     "renderingMode": {
-      "value": 1,
+      "value": 0,
       "comment": "Internal rendering mode value, don't touch!"
     }
   },
@@ -138,92 +138,12 @@
   "controls": {
     "keysetID": 16,
     "keyboard": {
-      "general.custom9": {
-        "keyCode": 328,
+      "general.custom1": {
+        "keyCode": 320,
         "isMouseButton": false
       },
-      "car.mod": {
-        "keyCode": 344,
-        "isMouseButton": false
-      },
-      "general.custom7": {
-        "keyCode": 326,
-        "isMouseButton": false
-      },
-      "general.custom8": {
-        "keyCode": 327,
-        "isMouseButton": false
-      },
-      "aircraft.js_inhibit": {
-        "keyCode": 281,
-        "isMouseButton": false
-      },
-      "aircraft.yaw_l": {
-        "keyCode": 74,
-        "isMouseButton": false
-      },
-      "car.turn_l": {
-        "keyCode": 65,
-        "isMouseButton": false
-      },
-      "aircraft.gun_switch": {
-        "keyCode": 86,
-        "isMouseButton": false
-      },
-      "car.camlock": {
-        "keyCode": 342,
-        "isMouseButton": false
-      },
-      "general.reload": {
-        "keyCode": 82,
-        "isMouseButton": false
-      },
-      "car.turn_r": {
-        "keyCode": 68,
-        "isMouseButton": false
-      },
-      "aircraft.yaw_r": {
-        "keyCode": 76,
-        "isMouseButton": false
-      },
-      "car.radio": {
-        "keyCode": 45,
-        "isMouseButton": false
-      },
-      "car.zoom_o": {
-        "keyCode": 267,
-        "isMouseButton": false
-      },
-      "aircraft.zoom_o": {
-        "keyCode": 267,
-        "isMouseButton": false
-      },
-      "aircraft.zoom_i": {
-        "keyCode": 266,
-        "isMouseButton": false
-      },
-      "car.js_inhibit": {
-        "keyCode": 281,
-        "isMouseButton": false
-      },
-      "car.zoom_i": {
-        "keyCode": 266,
-        "isMouseButton": false
-      },
-      "aircraft.park": {
-        "keyCode": 78,
-        "isMouseButton": false
-      },
-      "car.changeview": {
-        "keyCode": 88,
-        "isMouseButton": false
-      },
-      "general.custom5": {
-        "keyCode": 324,
-        "isMouseButton": false
-      },
-      "general.custom6": {
-        "keyCode": 325,
+      "general.custom2": {
+        "keyCode": 321,
         "isMouseButton": false
       },
       "general.custom3": {
@@ -234,24 +154,144 @@
         "keyCode": 323,
         "isMouseButton": false
       },
-      "general.custom1": {
-        "keyCode": 320,
+      "general.custom5": {
+        "keyCode": 324,
         "isMouseButton": false
       },
-      "general.custom2": {
-        "keyCode": 321,
+      "general.custom6": {
+        "keyCode": 325,
         "isMouseButton": false
       },
-      "aircraft.brake": {
-        "keyCode": 66,
+      "general.custom7": {
+        "keyCode": 326,
+        "isMouseButton": false
+      },
+      "general.custom8": {
+        "keyCode": 327,
+        "isMouseButton": false
+      },
+      "general.custom9": {
+        "keyCode": 328,
+        "isMouseButton": false
+      },
+      "general.custom10": {
+        "keyCode": 329,
+        "isMouseButton": false
+      },
+      "general.reload": {
+        "keyCode": 82,
+        "isMouseButton": false
+      },
+      "aircraft.yaw_r": {
+        "keyCode": 76,
+        "isMouseButton": false
+      },
+      "aircraft.yaw_l": {
+        "keyCode": 74,
+        "isMouseButton": false
+      },
+      "aircraft.pitch_u": {
+        "keyCode": 83,
+        "isMouseButton": false
+      },
+      "aircraft.pitch_d": {
+        "keyCode": 87,
+        "isMouseButton": false
+      },
+      "aircraft.roll_r": {
+        "keyCode": 68,
+        "isMouseButton": false
+      },
+      "aircraft.roll_l": {
+        "keyCode": 65,
         "isMouseButton": false
       },
       "aircraft.throttle_u": {
         "keyCode": 73,
         "isMouseButton": false
       },
-      "car.lights": {
-        "keyCode": 71,
+      "aircraft.throttle_d": {
+        "keyCode": 75,
+        "isMouseButton": false
+      },
+      "aircraft.flaps_u": {
+        "keyCode": 89,
+        "isMouseButton": false
+      },
+      "aircraft.flaps_d": {
+        "keyCode": 72,
+        "isMouseButton": false
+      },
+      "aircraft.mouseyoke": {
+        "keyCode": 67,
+        "isMouseButton": false
+      },
+      "aircraft.brake": {
+        "keyCode": 66,
+        "isMouseButton": false
+      },
+      "aircraft.park": {
+        "keyCode": 78,
+        "isMouseButton": false
+      },
+      "aircraft.panel": {
+        "keyCode": 85,
+        "isMouseButton": false
+      },
+      "aircraft.radio": {
+        "keyCode": 45,
+        "isMouseButton": false
+      },
+      "aircraft.gun_fire": {
+        "keyCode": 32,
+        "isMouseButton": false
+      },
+      "aircraft.gun_switch": {
+        "keyCode": 86,
+        "isMouseButton": false
+      },
+      "aircraft.zoom_i": {
+        "keyCode": 266,
+        "isMouseButton": false
+      },
+      "aircraft.zoom_o": {
+        "keyCode": 267,
+        "isMouseButton": false
+      },
+      "aircraft.changeview": {
+        "keyCode": 88,
+        "isMouseButton": false
+      },
+      "aircraft.camlock": {
+        "keyCode": 342,
+        "isMouseButton": false
+      },
+      "aircraft.js_inhibit": {
+        "keyCode": 281,
+        "isMouseButton": false
+      },
+      "car.mod": {
+        "keyCode": 344,
+        "isMouseButton": false
+      },
+      "car.turn_r": {
+        "keyCode": 68,
+        "isMouseButton": false
+      },
+      "car.turn_l": {
+        "keyCode": 65,
+        "isMouseButton": false
+      },
+      "car.gas": {
+        "keyCode": 87,
+        "isMouseButton": false
+      },
+      "car.brake": {
+        "keyCode": 83,
+        "isMouseButton": false
+      },
+      "car.park": {
+        "keyCode": 78,
         "isMouseButton": false
       },
       "car.panel": {
@@ -262,96 +302,56 @@
         "keyCode": 82,
         "isMouseButton": false
       },
-      "car.horn": {
-        "keyCode": 67,
-        "isMouseButton": false
-      },
-      "aircraft.radio": {
-        "keyCode": 45,
-        "isMouseButton": false
-      },
-      "aircraft.camlock": {
-        "keyCode": 342,
-        "isMouseButton": false
-      },
-      "car.park": {
-        "keyCode": 78,
-        "isMouseButton": false
-      },
-      "aircraft.changeview": {
-        "keyCode": 88,
-        "isMouseButton": false
-      },
-      "car.gas": {
-        "keyCode": 87,
-        "isMouseButton": false
-      },
-      "aircraft.throttle_d": {
-        "keyCode": 75,
-        "isMouseButton": false
-      },
-      "aircraft.gun_fire": {
-        "keyCode": 32,
-        "isMouseButton": false
-      },
-      "aircraft.roll_l": {
-        "keyCode": 65,
-        "isMouseButton": false
-      },
-      "aircraft.roll_r": {
-        "keyCode": 68,
-        "isMouseButton": false
-      },
       "car.shift_d": {
         "keyCode": 70,
         "isMouseButton": false
       },
-      "car.turnsignal_r": {
-        "keyCode": 46,
+      "car.horn": {
+        "keyCode": 67,
+        "isMouseButton": false
+      },
+      "car.radio": {
+        "keyCode": 45,
         "isMouseButton": false
       },
       "car.gun_fire": {
         "keyCode": 32,
         "isMouseButton": false
       },
-      "aircraft.pitch_d": {
-        "keyCode": 87,
-        "isMouseButton": false
-      },
-      "aircraft.flaps_d": {
-        "keyCode": 72,
-        "isMouseButton": false
-      },
       "car.gun_switch": {
         "keyCode": 86,
         "isMouseButton": false
       },
-      "aircraft.pitch_u": {
-        "keyCode": 83,
+      "car.zoom_i": {
+        "keyCode": 266,
         "isMouseButton": false
       },
-      "aircraft.mouseyoke": {
-        "keyCode": 67,
+      "car.zoom_o": {
+        "keyCode": 267,
         "isMouseButton": false
       },
-      "aircraft.flaps_u": {
-        "keyCode": 89,
+      "car.changeview": {
+        "keyCode": 88,
         "isMouseButton": false
       },
-      "car.brake": {
-        "keyCode": 83,
+      "car.lights": {
+        "keyCode": 71,
         "isMouseButton": false
       },
-      "aircraft.panel": {
-        "keyCode": 85,
+      "car.camlock": {
+        "keyCode": 342,
         "isMouseButton": false
       },
       "car.turnsignal_l": {
         "keyCode": 44,
         "isMouseButton": false
       },
-      "general.custom10": {
-        "keyCode": 329,
+      "car.turnsignal_r": {
+        "keyCode": 46,
+        "isMouseButton": false
+      },
+      "car.js_inhibit": {
+        "keyCode": 281,
         "isMouseButton": false
       }
     },

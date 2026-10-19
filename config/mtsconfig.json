@@ -129,12 +129,8 @@
         "auweschveb": 1.0,
         "auweschvebh": 1.0,
         "auweschvebx": 1.0,
-        "qmp_d": 1.0,
-        "qmp_s": 1.0,
-        "qmp_n": 1.0,
         "auweschvebm": 1.0,
         "mts": 1.0,
-        "qmp_a": 1.0,
         "iavm": 1.0,
         "iav": 1.0
       },
@@ -145,12 +141,8 @@
         "auweschveb": 1.0,
         "auweschvebh": 1.0,
         "auweschvebx": 1.0,
-        "qmp_d": 1.0,
-        "qmp_s": 1.0,
-        "qmp_n": 1.0,
         "auweschvebm": 1.0,
         "mts": 1.0,
-        "qmp_a": 1.0,
         "iavm": 1.0,
         "iav": 1.0
       },
@@ -172,7 +164,8 @@
     },
     "joinedPlayers": {
       "value": [
-        "bda91398-2f4a-428d-a2eb-0fcb2e7ca010"
+        "54443e13-d40e-4403-9e01-48be28a1b8d4",
+        "5d241282-0518-49bd-b379-a74181ab7bb9"
       ],
       "comment": "Listing of players that have joined this world.  Players will be given the manual on their first join."
     }
@@ -243,12 +236,8 @@
         "auweschveb": 1.0,
         "auweschvebh": 1.0,
         "auweschvebx": 1.0,
-        "qmp_d": 1.0,
-        "qmp_s": 1.0,
-        "qmp_n": 1.0,
         "auweschvebm": 1.0,
         "mts": 1.0,
-        "qmp_a": 1.0,
         "iavm": 1.0,
         "iav": 1.0
       },

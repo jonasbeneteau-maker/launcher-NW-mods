@@ -502,6 +502,28 @@
                     }
                 },
                 {
+                    "id": "novaworld:config_ad_astra-client_jsonc",
+                    "name": "ad_astra-client.jsonc",
+                    "type": "File",
+                    "artifact": {
+                        "size": 493,
+                        "MD5": "a75a504d944737d21969976e4d243b0f",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/ad_astra-client.jsonc",
+                        "path": "config/ad_astra-client.jsonc"
+                    }
+                },
+                {
+                    "id": "novaworld:config_ad_astra_jsonc",
+                    "name": "ad_astra.jsonc",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3039,
+                        "MD5": "0b79631c51910ae6cc58c92c4a9b74bf",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/ad_astra.jsonc",
+                        "path": "config/ad_astra.jsonc"
+                    }
+                },
+                {
                     "id": "novaworld:config_badoptimizations_txt",
                     "name": "badoptimizations.txt",
                     "type": "File",
@@ -535,6 +557,28 @@
                     }
                 },
                 {
+                    "id": "novaworld:config_CustomNpcs_cfg",
+                    "name": "CustomNpcs.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2928,
+                        "MD5": "9ddf556c8ddd1af85fc389a3b1cacb15",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/CustomNpcs.cfg",
+                        "path": "config/CustomNpcs.cfg"
+                    }
+                },
+                {
+                    "id": "novaworld:config_Dusty Decorations Config_toml",
+                    "name": "Dusty Decorations Config.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1128,
+                        "MD5": "805e5c45a1c79e7c0918f754e75d54f2",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/Dusty Decorations Config.toml",
+                        "path": "config/Dusty Decorations Config.toml"
+                    }
+                },
+                {
                     "id": "novaworld:config_farmersdelight-client_toml",
                     "name": "farmersdelight-client.toml",
                     "type": "File",
@@ -561,8 +605,8 @@
                     "name": "fml.toml",
                     "type": "File",
                     "artifact": {
-                        "size": 1147,
-                        "MD5": "765abf28bcaec9ac5195774c610e1d54",
+                        "size": 1148,
+                        "MD5": "783d5f5e55fc91951e5e234d72980761",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fml.toml",
                         "path": "config/fml.toml"
                     }
@@ -576,6 +620,17 @@
                         "MD5": "94d0dcbf248b1ee18bf1266c672327a1",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/forge-client.toml",
                         "path": "config/forge-client.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_forgematica_json",
+                    "name": "forgematica.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 9174,
+                        "MD5": "32c3a7802fd7e05913cdb4d29e627175",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/forgematica.json",
+                        "path": "config/forgematica.json"
                     }
                 },
                 {
@@ -598,6 +653,28 @@
                         "MD5": "a539fdf18fcee6c29b73a62496c60ad9",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/immersiveengineering-common.toml",
                         "path": "config/immersiveengineering-common.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg-client_toml",
+                    "name": "jeg-client.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6343,
+                        "MD5": "10503bcab9ccf5cfad67799fcd38206e",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg-client.toml",
+                        "path": "config/jeg-client.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg-common_toml",
+                    "name": "jeg-common.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 17251,
+                        "MD5": "b9c5c7dde7b4d65046d324889d6c4409",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg-common.toml",
+                        "path": "config/jeg-common.toml"
                     }
                 },
                 {
@@ -634,6 +711,39 @@
                     }
                 },
                 {
+                    "id": "novaworld:config_mafglib_json",
+                    "name": "mafglib.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 149,
+                        "MD5": "d8d1ab2efbaf17749531cb75dc7ad330",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/mafglib.json",
+                        "path": "config/mafglib.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_mekmissilesconfig_properties",
+                    "name": "mekmissilesconfig.properties",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3763,
+                        "MD5": "a052e879feb1e8bf7e1aea5fbf9afd64",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/mekmissilesconfig.properties",
+                        "path": "config/mekmissilesconfig.properties"
+                    }
+                },
+                {
+                    "id": "novaworld:config_mnweconfig_properties",
+                    "name": "mnweconfig.properties",
+                    "type": "File",
+                    "artifact": {
+                        "size": 7169,
+                        "MD5": "b74c19619693e00ad0e6d2a5bc2defe3",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/mnweconfig.properties",
+                        "path": "config/mnweconfig.properties"
+                    }
+                },
+                {
                     "id": "novaworld:config_moonlight-client_toml",
                     "name": "moonlight-client.toml",
                     "type": "File",
@@ -660,8 +770,8 @@
                     "name": "mtsconfig.json",
                     "type": "File",
                     "artifact": {
-                        "size": 15217,
-                        "MD5": "ae59a28be61b7a3041071503a2c6060c",
+                        "size": 15001,
+                        "MD5": "be5287bfa4f1042138b3c6a76b0d892c",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/mtsconfig.json",
                         "path": "config/mtsconfig.json"
                     }
@@ -672,9 +782,31 @@
                     "type": "File",
                     "artifact": {
                         "size": 24696,
-                        "MD5": "d78f2ff8445652dfdf5458b4afa90f54",
+                        "MD5": "52a19a2d3458cc15f744dc767f2ca8e8",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/mtsconfigclient.json",
                         "path": "config/mtsconfigclient.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_patchouli-client_toml",
+                    "name": "patchouli-client.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1091,
+                        "MD5": "8abc03f47eb092528e4d5bda3e2ff172",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/patchouli-client.toml",
+                        "path": "config/patchouli-client.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_resourceful-config-web_json",
+                    "name": "resourceful-config-web.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 196,
+                        "MD5": "4494ce750bd22b3fab6f0607c39f78ee",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/resourceful-config-web.json",
+                        "path": "config/resourceful-config-web.json"
                     }
                 },
                 {
@@ -693,10 +825,32 @@
                     "name": "storagedrawers-common.v2.toml",
                     "type": "File",
                     "artifact": {
-                        "size": 14565,
-                        "MD5": "26220096d2e80c63fd098c6b269ce5f9",
+                        "size": 17930,
+                        "MD5": "f206a349ccbe36886f50ad7baaf48279",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/storagedrawers-common.v2.toml",
                         "path": "config/storagedrawers-common.v2.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_superbwarfare-client_toml",
+                    "name": "superbwarfare-client.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3774,
+                        "MD5": "ad02fa10e821cda990aa675ed3913f94",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/superbwarfare-client.toml",
+                        "path": "config/superbwarfare-client.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_superbwarfare-common_toml",
+                    "name": "superbwarfare-common.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 468,
+                        "MD5": "32263289bead64b8b37593f391d99984",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/superbwarfare-common.toml",
+                        "path": "config/superbwarfare-common.toml"
                     }
                 },
                 {
@@ -733,12 +887,23 @@
                     }
                 },
                 {
+                    "id": "novaworld:config_tacz-common-1_toml_bak",
+                    "name": "tacz-common-1.toml.bak",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1658,
+                        "MD5": "0df5fc2bf8d138b1ff3134e878fe2785",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/tacz-common-1.toml.bak",
+                        "path": "config/tacz-common-1.toml.bak"
+                    }
+                },
+                {
                     "id": "novaworld:config_tacz-common_toml",
                     "name": "tacz-common.toml",
                     "type": "File",
                     "artifact": {
                         "size": 2172,
-                        "MD5": "a0094e7d081be356dd5974c2bf6b5420",
+                        "MD5": "4957031f8c74dead47c293e7932a9ba0",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/tacz-common.toml",
                         "path": "config/tacz-common.toml"
                     }
@@ -755,6 +920,17 @@
                     }
                 },
                 {
+                    "id": "novaworld:config_vinery_toml",
+                    "name": "vinery.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2933,
+                        "MD5": "15a6970b8fd29ead3d348c295bd5e4e8",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/vinery.toml",
+                        "path": "config/vinery.toml"
+                    }
+                },
+                {
                     "id": "novaworld:config_voicechat-client_toml",
                     "name": "voicechat-client.toml",
                     "type": "File",
@@ -766,36 +942,36 @@
                     }
                 },
                 {
+                    "id": "novaworld:config_v_slab_compat-common_toml",
+                    "name": "v_slab_compat-common.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 53,
+                        "MD5": "bd801b10a11cdf8a1576338219369dcd",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/v_slab_compat-common.toml",
+                        "path": "config/v_slab_compat-common.toml"
+                    }
+                },
+                {
                     "id": "novaworld:config_xaerohud_txt",
                     "name": "xaerohud.txt",
                     "type": "File",
                     "artifact": {
-                        "size": 123,
-                        "MD5": "2f87c54b0b2e85e6a5031171284d6f31",
+                        "size": 125,
+                        "MD5": "d3380adc4a5e4577da12965b31ef5042",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/xaerohud.txt",
                         "path": "config/xaerohud.txt"
                     }
                 },
                 {
-                    "id": "novaworld:config_zerocontact-client_toml",
-                    "name": "zerocontact-client.toml",
+                    "id": "novaworld:config_xaeropatreon_txt",
+                    "name": "xaeropatreon.txt",
                     "type": "File",
                     "artifact": {
-                        "size": 63,
-                        "MD5": "c3902035fd4a66a58141c47c6dafc72b",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/zerocontact-client.toml",
-                        "path": "config/zerocontact-client.toml"
-                    }
-                },
-                {
-                    "id": "novaworld:config_zerocontact-common_toml",
-                    "name": "zerocontact-common.toml",
-                    "type": "File",
-                    "artifact": {
-                        "size": 57,
-                        "MD5": "ec229fe53442bcb8256080995985e969",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/zerocontact-common.toml",
-                        "path": "config/zerocontact-common.toml"
+                        "size": 0,
+                        "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/xaeropatreon.txt",
+                        "path": "config/xaeropatreon.txt"
                     }
                 },
                 {
@@ -848,7 +1024,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 4398,
-                        "MD5": "5711f473eeceed9727c52c6fb0cb0a8e",
+                        "MD5": "1c057385a5d7556c3ad0c4e5db050472",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/options.txt",
                         "path": "config/fancymenu/options.txt"
                     }
@@ -865,14 +1041,80 @@
                     }
                 },
                 {
-                    "id": "novaworld:config_fancymenu_assets_background_png",
-                    "name": "background.png",
+                    "id": "novaworld:config_fancymenu_assets_backgroundt_png",
+                    "name": "backgroundt.png",
                     "type": "File",
                     "artifact": {
-                        "size": 1711816,
-                        "MD5": "0558ce198902682f00f020dd141345c9",
-                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/assets/background.png",
-                        "path": "config/fancymenu/assets/background.png"
+                        "size": 1290186,
+                        "MD5": "f65b3521358398645e4c060322945f8d",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/assets/backgroundt.png",
+                        "path": "config/fancymenu/assets/backgroundt.png"
+                    }
+                },
+                {
+                    "id": "novaworld:config_fancymenu_assets_backroundftb_png",
+                    "name": "backroundftb.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1532561,
+                        "MD5": "9f9af2919e0b35c91100a61188da9684",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/assets/backroundftb.png",
+                        "path": "config/fancymenu/assets/backroundftb.png"
+                    }
+                },
+                {
+                    "id": "novaworld:config_fancymenu_assets_dev_png",
+                    "name": "dev.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 94920,
+                        "MD5": "2c3b9ff7f11e672d587b0093ef068c56",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/assets/dev.png",
+                        "path": "config/fancymenu/assets/dev.png"
+                    }
+                },
+                {
+                    "id": "novaworld:config_fancymenu_assets_emeraud_png",
+                    "name": "emeraud.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 293337,
+                        "MD5": "e620b1ee1aec399eaa095d9e6419b674",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/assets/emeraud.png",
+                        "path": "config/fancymenu/assets/emeraud.png"
+                    }
+                },
+                {
+                    "id": "novaworld:config_fancymenu_assets_mine_png",
+                    "name": "mine.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 282371,
+                        "MD5": "8ca731b5b788f96052492960d3f8737b",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/assets/mine.png",
+                        "path": "config/fancymenu/assets/mine.png"
+                    }
+                },
+                {
+                    "id": "novaworld:config_fancymenu_assets_newsfini1_png",
+                    "name": "newsfini1.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1610404,
+                        "MD5": "7e5d6dececa20b5e39bdd1b6268d9b1e",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/assets/newsfini1.png",
+                        "path": "config/fancymenu/assets/newsfini1.png"
+                    }
+                },
+                {
+                    "id": "novaworld:config_fancymenu_assets_newsfini_2_png",
+                    "name": "newsfini_2.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1709792,
+                        "MD5": "ee5c32d606ab9c881031620acbc8e37e",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/assets/newsfini_2.png",
+                        "path": "config/fancymenu/assets/newsfini_2.png"
                     }
                 },
                 {
@@ -887,12 +1129,45 @@
                     }
                 },
                 {
+                    "id": "novaworld:config_fancymenu_assets_opt_png",
+                    "name": "opt.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 126349,
+                        "MD5": "cdc343ccad7e1591155ff1c21a5aac9a",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/assets/opt.png",
+                        "path": "config/fancymenu/assets/opt.png"
+                    }
+                },
+                {
+                    "id": "novaworld:config_fancymenu_assets_qt_png",
+                    "name": "qt.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 129382,
+                        "MD5": "80ff3ad0c788455e1a2c5ea1f9cdb42f",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/assets/qt.png",
+                        "path": "config/fancymenu/assets/qt.png"
+                    }
+                },
+                {
+                    "id": "novaworld:config_fancymenu_customization_drippy_loading_overlay_layout_txt",
+                    "name": "drippy_loading_overlay_layout.txt",
+                    "type": "File",
+                    "artifact": {
+                        "size": 18020,
+                        "MD5": "33ad4322e5a8928f51ab60897aa46fa9",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+                        "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+                    }
+                },
+                {
                     "id": "novaworld:config_fancymenu_customization_title_screen_layout_txt",
                     "name": "title_screen_layout.txt",
                     "type": "File",
                     "artifact": {
-                        "size": 50574,
-                        "MD5": "dd375983c53b2c5306f8ae4e604ed6e7",
+                        "size": 56653,
+                        "MD5": "b79874d0a7d6f3852f039eba2a4266b9",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/customization/title_screen_layout.txt",
                         "path": "config/fancymenu/customization/title_screen_layout.txt"
                     }
@@ -902,8 +1177,8 @@
                     "name": "element_layer_control.lewidget",
                     "type": "File",
                     "artifact": {
-                        "size": 197,
-                        "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
+                        "size": 198,
+                        "MD5": "43a5ab1a30249caf7dafc2f7ad4b0ed9",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
                         "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
                     }
@@ -1008,12 +1283,265 @@
                     }
                 },
                 {
+                    "id": "novaworld:config_forgematica_forgematica_83_143_117_57_20638_json",
+                    "name": "forgematica_83.143.117.57_20638.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 95,
+                        "MD5": "1b4c08b793b25ffcaa34db0efd02c76f",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/forgematica/forgematica_83.143.117.57_20638.json",
+                        "path": "config/forgematica/forgematica_83.143.117.57_20638.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_forgematica_forgematica_83_143_117_57_20638_dim_minecraft_overworld_json",
+                    "name": "forgematica_83.143.117.57_20638_dim_minecraft_overworld.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 753,
+                        "MD5": "80473b4f99b697fb0dd24e85b4b164ac",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/forgematica/forgematica_83.143.117.57_20638_dim_minecraft_overworld.json",
+                        "path": "config/forgematica/forgematica_83.143.117.57_20638_dim_minecraft_overworld.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_forgematica_forgematica_83_143_117_57_20638_dim_minecraft_the_nether_json",
+                    "name": "forgematica_83.143.117.57_20638_dim_minecraft_the_nether.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 750,
+                        "MD5": "b1f122b1083dce19d8470b1e5c228ba6",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/forgematica/forgematica_83.143.117.57_20638_dim_minecraft_the_nether.json",
+                        "path": "config/forgematica/forgematica_83.143.117.57_20638_dim_minecraft_the_nether.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_forgematica_forgematica_new_world_json",
+                    "name": "forgematica_new_world.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 95,
+                        "MD5": "1b4c08b793b25ffcaa34db0efd02c76f",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/forgematica/forgematica_new_world.json",
+                        "path": "config/forgematica/forgematica_new_world.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_forgematica_forgematica_new_world_dim_minecraft_overworld_json",
+                    "name": "forgematica_new_world_dim_minecraft_overworld.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 719,
+                        "MD5": "e567650b54d93d38fe18f76fead6b207",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/forgematica/forgematica_new_world_dim_minecraft_overworld.json",
+                        "path": "config/forgematica/forgematica_new_world_dim_minecraft_overworld.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_hbm_m_client_json",
+                    "name": "client.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3246,
+                        "MD5": "0561194b7890f5b848a0493056646484",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/hbm_m/client.json",
+                        "path": "config/hbm_m/client.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_hbm_m_server_json",
+                    "name": "server.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6501,
+                        "MD5": "f4b3a87d6b9e6565ec581435d85171b8",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/hbm_m/server.json",
+                        "path": "config/hbm_m/server.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_pack_mcmeta",
+                    "name": "pack.mcmeta",
+                    "type": "File",
+                    "artifact": {
+                        "size": 101,
+                        "MD5": "892a376f382aa874ec028981b70f70cf",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/pack.mcmeta",
+                        "path": "config/jeg/pack.mcmeta"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_assets_jeg_animations_fire_sweeper_animation_json",
+                    "name": "fire_sweeper.animation.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 30239,
+                        "MD5": "50d753987f9f302501d1f3c8a37d3e98",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/assets/jeg/animations/fire_sweeper.animation.json",
+                        "path": "config/jeg/assets/jeg/animations/fire_sweeper.animation.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_assets_jeg_animations_primitive_blowpipe_animation_json",
+                    "name": "primitive_blowpipe.animation.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 5459,
+                        "MD5": "018aed819ed6aae9010ca2a641a8ed5b",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/assets/jeg/animations/primitive_blowpipe.animation.json",
+                        "path": "config/jeg/assets/jeg/animations/primitive_blowpipe.animation.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_assets_jeg_animations_vindicator_smg_animation_json",
+                    "name": "vindicator_smg.animation.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 18995,
+                        "MD5": "8bd4b9e3e383ce719f1fe9d1c4bdb818",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/assets/jeg/animations/vindicator_smg.animation.json",
+                        "path": "config/jeg/assets/jeg/animations/vindicator_smg.animation.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_assets_jeg_geo_fire_sweeper_geo_json",
+                    "name": "fire_sweeper.geo.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 25143,
+                        "MD5": "d9a30869ec245c15503e79bfe93c7b6a",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/assets/jeg/geo/fire_sweeper.geo.json",
+                        "path": "config/jeg/assets/jeg/geo/fire_sweeper.geo.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_assets_jeg_geo_primitive_blowpipe_geo_json",
+                    "name": "primitive_blowpipe.geo.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4216,
+                        "MD5": "da3966ac5e3995d6f71a7d33640fff99",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/assets/jeg/geo/primitive_blowpipe.geo.json",
+                        "path": "config/jeg/assets/jeg/geo/primitive_blowpipe.geo.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_assets_jeg_geo_vindicator_smg_geo_json",
+                    "name": "vindicator_smg.geo.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 18212,
+                        "MD5": "f25f6623bd36c87c218d8c7bfe2b208c",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/assets/jeg/geo/vindicator_smg.geo.json",
+                        "path": "config/jeg/assets/jeg/geo/vindicator_smg.geo.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_assets_jeg_lang_en_us_json",
+                    "name": "en_us.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 147,
+                        "MD5": "8c4f49855dd37a62d65c27e0badcfe01",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/assets/jeg/lang/en_us.json",
+                        "path": "config/jeg/assets/jeg/lang/en_us.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_assets_jeg_textures_fire_sweeper_png",
+                    "name": "fire_sweeper.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 26773,
+                        "MD5": "1e99f7cb757755c9638eb84fe40e66d1",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/assets/jeg/textures/fire_sweeper.png",
+                        "path": "config/jeg/assets/jeg/textures/fire_sweeper.png"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_assets_jeg_textures_fire_sweeper_png_mcmeta",
+                    "name": "fire_sweeper.png.mcmeta",
+                    "type": "File",
+                    "artifact": {
+                        "size": 137,
+                        "MD5": "66e1155d621d64ac5439c61413f850e6",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/assets/jeg/textures/fire_sweeper.png.mcmeta",
+                        "path": "config/jeg/assets/jeg/textures/fire_sweeper.png.mcmeta"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_assets_jeg_textures_primitive_blowpipe_png",
+                    "name": "primitive_blowpipe.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 988,
+                        "MD5": "210806bbab152e8a378d7d1cb2854842",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/assets/jeg/textures/primitive_blowpipe.png",
+                        "path": "config/jeg/assets/jeg/textures/primitive_blowpipe.png"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_assets_jeg_textures_vindicator_smg_png",
+                    "name": "vindicator_smg.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2751,
+                        "MD5": "5af83e218d1c8c55d2263806f5a03795",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/assets/jeg/textures/vindicator_smg.png",
+                        "path": "config/jeg/assets/jeg/textures/vindicator_smg.png"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_data_guns_fire_sweeper_json",
+                    "name": "fire_sweeper.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1525,
+                        "MD5": "584a7d09fa296ec07f8eb4c5914b3a39",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/data/guns/fire_sweeper.json",
+                        "path": "config/jeg/data/guns/fire_sweeper.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_data_guns_primitive_blowpipe_json",
+                    "name": "primitive_blowpipe.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1093,
+                        "MD5": "5689e93ae9fb7fd57ce865d6254c5fb2",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/data/guns/primitive_blowpipe.json",
+                        "path": "config/jeg/data/guns/primitive_blowpipe.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jeg_data_guns_vindicator_smg_json",
+                    "name": "vindicator_smg.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1494,
+                        "MD5": "501b4f6a931a02bac1cdab529fc7a201",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jeg/data/guns/vindicator_smg.json",
+                        "path": "config/jeg/data/guns/vindicator_smg.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jei_blacklist_json",
+                    "name": "blacklist.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 19,
+                        "MD5": "ea5744cdc731b505949494bc512d338d",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/blacklist.json",
+                        "path": "config/jei/blacklist.json"
+                    }
+                },
+                {
                     "id": "novaworld:config_jei_ingredient-list-mod-sort-order_ini",
                     "name": "ingredient-list-mod-sort-order.ini",
                     "type": "File",
                     "artifact": {
-                        "size": 124,
-                        "MD5": "aac7a31629ed5ce419b615913dd6b28e",
+                        "size": 230,
+                        "MD5": "caa8470a051f4c0a728e7e2e66caa2fc",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/ingredient-list-mod-sort-order.ini",
                         "path": "config/jei/ingredient-list-mod-sort-order.ini"
                     }
@@ -1023,8 +1551,8 @@
                     "name": "ingredient-list-type-sort-order.ini",
                     "type": "File",
                     "artifact": {
-                        "size": 100,
-                        "MD5": "dccda1a994deb7c44e4e1609e87ec4e8",
+                        "size": 240,
+                        "MD5": "5e3d1d02d29064fff3770d4720fe802e",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/ingredient-list-type-sort-order.ini",
                         "path": "config/jei/ingredient-list-type-sort-order.ini"
                     }
@@ -1034,8 +1562,8 @@
                     "name": "jei-client.ini",
                     "type": "File",
                     "artifact": {
-                        "size": 7991,
-                        "MD5": "81c1f04ca66332819d0805e5323f3e4a",
+                        "size": 12984,
+                        "MD5": "beee5e21d5e3e7f549bfff8171b3503f",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/jei-client.ini",
                         "path": "config/jei/jei-client.ini"
                     }
@@ -1045,8 +1573,8 @@
                     "name": "jei-colors.ini",
                     "type": "File",
                     "artifact": {
-                        "size": 1338,
-                        "MD5": "54322062602d3aabb6b11455e07de765",
+                        "size": 1362,
+                        "MD5": "2b1d073ff360c11353f0079b7539cb2e",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/jei-colors.ini",
                         "path": "config/jei/jei-colors.ini"
                     }
@@ -1056,8 +1584,8 @@
                     "name": "jei-debug.ini",
                     "type": "File",
                     "artifact": {
-                        "size": 918,
-                        "MD5": "4dd10e2f07441d4820fe65e804aac24c",
+                        "size": 939,
+                        "MD5": "2f0b31fe55701f6908bcd0bc6bad9497",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/jei-debug.ini",
                         "path": "config/jei/jei-debug.ini"
                     }
@@ -1067,8 +1595,8 @@
                     "name": "jei-mod-id-format.ini",
                     "type": "File",
                     "artifact": {
-                        "size": 463,
-                        "MD5": "457dca8722dc66e695196c24fba7875f",
+                        "size": 489,
+                        "MD5": "7346a8c14352eda612ae4765f6758a62",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/jei-mod-id-format.ini",
                         "path": "config/jei/jei-mod-id-format.ini"
                     }
@@ -1078,10 +1606,87 @@
                     "name": "recipe-category-sort-order.ini",
                     "type": "File",
                     "artifact": {
-                        "size": 1186,
-                        "MD5": "6ea1551adb8bad1ce0b16574252d9cbd",
+                        "size": 1806,
+                        "MD5": "3f0937b21f517d9bb9d08b3274ec508c",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/recipe-category-sort-order.ini",
                         "path": "config/jei/recipe-category-sort-order.ini"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jei_world_local_New World (1)_lookupHistory_ini",
+                    "name": "lookupHistory.ini",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1281,
+                        "MD5": "ac90b92d5d8c4b0b0267e1bc31c87503",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/world/local/New World (1)/lookupHistory.ini",
+                        "path": "config/jei/world/local/New World (1)/lookupHistory.ini"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jei_world_local_New World (2)_bookmarks_json",
+                    "name": "bookmarks.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 19,
+                        "MD5": "ea5744cdc731b505949494bc512d338d",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/world/local/New World (2)/bookmarks.json",
+                        "path": "config/jei/world/local/New World (2)/bookmarks.json"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jei_world_local_New World (2)_lookupHistory_ini",
+                    "name": "lookupHistory.ini",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1061,
+                        "MD5": "dc19aeec59094dcbf9e745477ae21b87",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/world/local/New World (2)/lookupHistory.ini",
+                        "path": "config/jei/world/local/New World (2)/lookupHistory.ini"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jei_world_local_New World (3)_lookupHistory_ini",
+                    "name": "lookupHistory.ini",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1394,
+                        "MD5": "89ffcebada1b1fe2d32545d7884b955e",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/world/local/New World (3)/lookupHistory.ini",
+                        "path": "config/jei/world/local/New World (3)/lookupHistory.ini"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jei_world_local_New World (4)_lookupHistory_ini",
+                    "name": "lookupHistory.ini",
+                    "type": "File",
+                    "artifact": {
+                        "size": 414,
+                        "MD5": "713f36ff724b6195b5570a1430569ed1",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/world/local/New World (4)/lookupHistory.ini",
+                        "path": "config/jei/world/local/New World (4)/lookupHistory.ini"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jei_world_local_New World (9)_lookupHistory_ini",
+                    "name": "lookupHistory.ini",
+                    "type": "File",
+                    "artifact": {
+                        "size": 51,
+                        "MD5": "68e50491205f1a9ba2b57f31ef64eb29",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/world/local/New World (9)/lookupHistory.ini",
+                        "path": "config/jei/world/local/New World (9)/lookupHistory.ini"
+                    }
+                },
+                {
+                    "id": "novaworld:config_jei_world_server_83_143_117_57_20638_4ad2268d_lookupHistory_ini",
+                    "name": "lookupHistory.ini",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1379,
+                        "MD5": "a6e9c93c1fc91c3f8a72d4c054a4ee2f",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/jei/world/server/83_143_117_57_20638_4ad2268d/lookupHistory.ini",
+                        "path": "config/jei/world/server/83_143_117_57_20638_4ad2268d/lookupHistory.ini"
                     }
                 },
                 {
@@ -1126,6 +1731,116 @@
                         "MD5": "2d055da094c115b94f0e4373a2e06ebe",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/konkrete/locals/pt_br.local",
                         "path": "config/konkrete/locals/pt_br.local"
+                    }
+                },
+                {
+                    "id": "novaworld:config_Mekanism_client_toml",
+                    "name": "client.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4293,
+                        "MD5": "133dd9c15cadf369caaf6b458fac3a1d",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/Mekanism/client.toml",
+                        "path": "config/Mekanism/client.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_Mekanism_common_toml",
+                    "name": "common.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 693,
+                        "MD5": "a437213c24a59ed7463ddaa2510d0213",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/Mekanism/common.toml",
+                        "path": "config/Mekanism/common.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_Mekanism_gear_toml",
+                    "name": "gear.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 12489,
+                        "MD5": "e74a535bca748cb2c77f5bc62002613c",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/Mekanism/gear.toml",
+                        "path": "config/Mekanism/gear.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_Mekanism_general_toml",
+                    "name": "general.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 11273,
+                        "MD5": "8e5854cf893ce9c189f1481b20e08b96",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/Mekanism/general.toml",
+                        "path": "config/Mekanism/general.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_Mekanism_machine-storage_toml",
+                    "name": "machine-storage.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2424,
+                        "MD5": "7366658b8ed8b3f8e6fbe8e1f0b3cea3",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/Mekanism/machine-storage.toml",
+                        "path": "config/Mekanism/machine-storage.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_Mekanism_machine-usage_toml",
+                    "name": "machine-usage.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2614,
+                        "MD5": "27d8efc2ff4b922be0dd22c8bc3671aa",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/Mekanism/machine-usage.toml",
+                        "path": "config/Mekanism/machine-usage.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_Mekanism_tiers_toml",
+                    "name": "tiers.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 9279,
+                        "MD5": "4a170c12ae548fd21bcdbeb79c01c8f7",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/Mekanism/tiers.toml",
+                        "path": "config/Mekanism/tiers.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_Mekanism_tools-client_toml",
+                    "name": "tools-client.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 180,
+                        "MD5": "9f367ad557833f4a294b2da0fcdcc835",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/Mekanism/tools-client.toml",
+                        "path": "config/Mekanism/tools-client.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_Mekanism_tools_toml",
+                    "name": "tools.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 31070,
+                        "MD5": "57feec1038378c0eae916093fb558b1a",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/Mekanism/tools.toml",
+                        "path": "config/Mekanism/tools.toml"
+                    }
+                },
+                {
+                    "id": "novaworld:config_Mekanism_world_toml",
+                    "name": "world.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 18322,
+                        "MD5": "815e256ca8b3678f60a6e427cbecec6f",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/Mekanism/world.toml",
+                        "path": "config/Mekanism/world.toml"
                     }
                 },
                 {
@@ -1199,8 +1914,8 @@
                     "name": "player-volumes.properties",
                     "type": "File",
                     "artifact": {
-                        "size": 44,
-                        "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
+                        "size": 132,
+                        "MD5": "68c44cab9f77df17de6a4b12453e8bfb",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/voicechat/player-volumes.properties",
                         "path": "config/voicechat/player-volumes.properties"
                     }
@@ -1221,8 +1936,8 @@
                     "name": "username-cache.json",
                     "type": "File",
                     "artifact": {
-                        "size": 2,
-                        "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+                        "size": 51,
+                        "MD5": "d86715b3f5242a9311c58d6dc71b797a",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/voicechat/username-cache.json",
                         "path": "config/voicechat/username-cache.json"
                     }
@@ -1233,7 +1948,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 5063,
-                        "MD5": "ed7df531e98d863f0d3be59b6dd59441",
+                        "MD5": "7079930e143f5e10d81514bff74cc636",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/voicechat/voicechat-client.properties",
                         "path": "config/voicechat/voicechat-client.properties"
                     }
@@ -1243,8 +1958,8 @@
                     "name": "voicechat-server.properties",
                     "type": "File",
                     "artifact": {
-                        "size": 2830,
-                        "MD5": "65f5d0c3d9cfa0efd690a7047c0f5e5b",
+                        "size": 3072,
+                        "MD5": "7d83d34bf4d0b39477c28143469ca7aa",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/voicechat/voicechat-server.properties",
                         "path": "config/voicechat/voicechat-server.properties"
                     }
