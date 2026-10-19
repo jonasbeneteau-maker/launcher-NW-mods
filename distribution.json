@@ -421,6 +421,7 @@
                     ]
                 },
                 {
+                
                     "id": "novaworld:BadOptimizations-2.4.1-1.20.1",
                     "name": "BadOptimizations-2.4.1-1.20.1",
                     "type": "ForgeMod",
@@ -1432,8 +1433,8 @@
                     "name": "options.txt",
                     "type": "File",
                     "artifact": {
-                        "size": 4398,
-                        "MD5": "1c057385a5d7556c3ad0c4e5db050472",
+                        "size": 4399,
+                        "MD5": "2844ac2779e59ae1a27e292d669d5121",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/options.txt",
                         "path": "config/fancymenu/options.txt"
                     }
@@ -1447,6 +1448,17 @@
                         "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/user_variables.db",
                         "path": "config/fancymenu/user_variables.db"
+                    }
+                },
+                {
+                    "id": "novaworld:config_fancymenu_assets_background_png",
+                    "name": "background.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1711816,
+                        "MD5": "0558ce198902682f00f020dd141345c9",
+                        "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/assets/background.png",
+                        "path": "config/fancymenu/assets/background.png"
                     }
                 },
                 {
@@ -1575,8 +1587,8 @@
                     "name": "title_screen_layout.txt",
                     "type": "File",
                     "artifact": {
-                        "size": 56653,
-                        "MD5": "b79874d0a7d6f3852f039eba2a4266b9",
+                        "size": 50574,
+                        "MD5": "dd375983c53b2c5306f8ae4e604ed6e7",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/customization/title_screen_layout.txt",
                         "path": "config/fancymenu/customization/title_screen_layout.txt"
                     }
@@ -1586,8 +1598,8 @@
                     "name": "element_layer_control.lewidget",
                     "type": "File",
                     "artifact": {
-                        "size": 198,
-                        "MD5": "43a5ab1a30249caf7dafc2f7ad4b0ed9",
+                        "size": 197,
+                        "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
                         "url": "https://jonasbeneteau-maker.github.io/launcher-NW-mods/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
                         "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
                     }
